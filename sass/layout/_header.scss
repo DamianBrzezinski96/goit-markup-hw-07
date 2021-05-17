@@ -1,0 +1,16 @@
+.header {
+    background-color: var(--hero-color);
+    
+    &--border {
+    border-bottom: 1px solid #ECECEC;
+}
+
+    & .container {
+        display:flex;
+    }
+}
+
+// portfolio
+// .header--border {
+//     border-bottom: 1px solid #ECECEC;
+// }

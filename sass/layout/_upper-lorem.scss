@@ -1,0 +1,18 @@
+.upper-lorem {
+    padding-bottom: 0px;
+    padding-top: 94px;
+    
+    &__icons {
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    }
+
+    &__items {
+   background-color:  #F5F4FA;
+   width: 270px;
+   height: 120px;
+   border-radius: 4px;
+   padding: 25px 102px;
+    }
+}

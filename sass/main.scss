@@ -1,6 +1,31 @@
 @import "./utils/visually-hidden";
 @import "./utils/variables";
+
 @import "./base/common";
 @import "./base/container";
 @import "./base/section";
+
+@import "./components/backdrop";
+@import "./components/modal";
+@import "./components/address-footer";
+@import "./components/header-address";
+@import "./components/header-mail";
+@import "./components/header-nav";
+@import "./components/logo";
+@import "./components/newsletter";
+@import "./components/social-footer";
+@import "./components/social-list";
+
+@import "./layout/about-us";
+@import "./layout/buttons-portfolio";
+@import "./layout/clients";
+@import "./layout/footer";
+@import "./layout/header";
+@import "./layout/hero";
+@import "./layout/lorem";
+@import "./layout/team";
+@import "./layout/upper-lorem";
+@import "./layout/windows-portfolio";
+
+
 
